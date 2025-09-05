@@ -8,6 +8,7 @@ class CoffeeThymeApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
